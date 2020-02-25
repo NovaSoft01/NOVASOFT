@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap');
+
+* {
+    top: 0;
+    margin: 0;
+    left: 0;
+}
+
+header {
+    width: 100;
+    height: 250px;
+}
+
+.Letra {
+    font-family: 'Alfa Slab One', ;
+}
+
+h3 {
+    font-family: 'Alfa Slab One', ;
+
+}
